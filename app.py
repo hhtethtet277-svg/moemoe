@@ -34,7 +34,7 @@ def banner():
     print("  ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═╝")
     print("="*56 + "\033[0m")
     print("\033[1;36m              မင်္ဂလာပါ | RSHI KA💀\033[0m")
-    print("\033[1;32m             Developer: TxiJuNaing | Project: Say Shi Lar\033[0m")
+    print("\033[1;32m             Developer: TxiJuNaing | Project: Code Bypass System\033[0m")
     print("\033[1;35m" + "="*56 + "\033[0m")
 
 def load_config():
